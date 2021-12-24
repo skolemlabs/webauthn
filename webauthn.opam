@@ -15,19 +15,12 @@ build: [
 
 depends: [
   "ocaml" {>= "4.08.0"}
-  "dune" {>= "2.7"}
-  "ppx_blob" {dev}
-  "cmdliner" {dev}
-  "logs" {dev}
-  "lwt" {dev}
   "yojson"
   "ppx_deriving_yojson"
   "mirage-crypto-ec"
   "mirage-crypto-rng"
-  "ocplib-endian"
   "x509" {>= "0.13.0"}
   "base64" {>= "3.1.0"}
-  "cstruct" {>= "6.0.0"}
 ]
 
 synopsis: "WebAuthn - authenticating users to services using public key cryptography"
