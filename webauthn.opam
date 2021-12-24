@@ -16,7 +16,7 @@ build: [
 depends: [
   "ocaml" {>= "4.08.0"}
   "dune" {>= "2.7"}
-  "dream" {dev & >= "1.0.0~alpha1"}
+  "dream" {= "1.0.0~alpha1"}
   "ppx_blob" {dev}
   "cmdliner" {dev}
   "logs" {dev}
