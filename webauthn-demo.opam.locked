@@ -37,6 +37,7 @@ depends: [
   "cstruct" {= "6.0.1"}
   "digestif" {= "1.1.0"}
   "domain-name" {= "0.3.1"}
+  "dream" {= "1.0.0~alpha1"}
   "dune" {= "2.9.1"}
   "dune-configurator" {= "2.9.1"}
   "duration" {= "0.2.0"}
