@@ -126,5 +126,5 @@ storage.
 [Demo server](https://webauthn-demo.robur.coop)
 [WebAuthn specification at W3C](https://w3c.github.io/webauthn/)
 """
-name: "webauthn"
+name: "webauthn-demo"
 version: "dev"
